@@ -1,35 +1,64 @@
 # Idea Development Documentation Structure
 
 ## 1. Introduction
-* Brief overview of the purpose of the document.
+This document provides a comprehensive overview of the process followed by the team to develop and select a Minimum Viable Product (MVP) for our project.
+It records each stage of idea development, from initial research and brainstorming to evaluation, decision-making, and refinement.
 
-* Explain that the document records the idea development process for selecting the MVP.
+The primary purpose of this document is to capture the rationale behind selecting the final MVP, ensuring transparency in the decision-making process and providing a reference for future development.
 
-* Mention the methodology used (research, brainstorming, evaluation, and decision).
+The methodology used in this process included:
+
+* Research: Conducting individual and group investigations into potential project ideas, exploring industry trends, real-world problems, and innovative solutions.
+* Brainstorming: Generating ideas collaboratively.
+* Evaluation: Assessing each idea based on feasibility, impact, technical alignment, and scalability, and identifying associated risks and constraints.
+* Decision and Refinement: Selecting the final MVP based on evaluation results and team discussions, and defining its problem statement, target users, key features, and expected outcomes.
 
 ## 2. Team Formation
 
 ### 2.1 Team Members
-* List each team member and their background/skills.
-* List each team member and their background/skills.
-* List each team member and their background/skills.
-* List each team member and their background/skills.
+
+* Ghaida Almutairi:
+    - Programming languages (Python, JavaScript)
+    - Web development frameworks (FastAPI, React)
+    - Project planning and scheduling
+    - Task prioritization
+  
+* Najla Alajaleen :
+    - h
+    -
+
+
+ *  Noura Alqahtani:
+    - h
+    - 
+
+  * Thekra Waleed:
+    - h
+    - 
 
 ### 2.2 Roles and Responsibilities
 
-* Temporary Project Manager
+* Temporary Project Manager:
 
-* Developers
+* Developers:
+  All team members
 
-* Research lead
+* Research lead:
+  
 
-* Documentation lead
+* Documentation lead:
+  
 
 ### 2.3 Team Communication
 
-* Communication tools used (Slack, Discord, Teams, etc.)
+* Communication tools used:
+  
+     WhatsApp for communication and Notion to define tasks.
 
-* Decision-making approach (majority vote, consensus, etc.)
+ * Decision-making approach:
+    * Communication
+    * Opinion sharing
+    * Voting
 
 ## 3. Research and Brainstorming
 
@@ -45,24 +74,18 @@
 
 ### 3.2 Brainstorming Methods
 
-Explain the techniques used:
+The brainstorming process involved listing all possible ideas, then excluding ideas based on usability and executability.
 
-#### Mind Mapping
-
-How ideas were visually connected.
-
-#### SCAMPER Framework
-
-Explain how you tried to innovate existing ideas.
-
-#### "How Might We" Questions
-
-Examples:
-* How might we simplify task management for students?
-* How might we improve investment tracking for beginners?
 
 ### 3.3 Generated Ideas
-Idea	| Description
+| Idea                     | Description                                                                                                                                                       |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AI Legal Assistant       | A legal aid website using AI that explains laws and government procedures and answers citizens' inquiries. It is not considered a substitute for a lawyer.        |
+| AI Career Simulator      | A website that allows users to try different careers before choosing one.                                                                                         |
+| Small Business Assistant | A website that helps small business owners find designers, marketers, accountants, and programmers.                                                               |
+| Interactive AI Teacher   | An interactive website for children in classrooms where the teacher uploads files and uses AI to present lessons live through slides or create educational games. |
+| Price Comparison Tool    | A tool that enables users to compare service prices between different places.                                                                                     |
+
 
 ## 4. Idea Evaluation
 
@@ -70,35 +93,30 @@ Idea	| Description
 
 Explain the criteria used to judge ideas.
 
-Example:
+* Feasibility – How realistic it is to build the idea within available resources and time.
 
-* Feasibility
+* Technical complexity – Level of difficulty in implementation.
 
-* Technical complexity
+* Potential impact – Value or benefit the idea brings to users.
 
-* Potential impact
+* Scalability – How well the idea can grow and handle more users or features.
 
-* Scalability
+* Time constraints – Whether the project can be completed in the allotted time.
 
-* Time constraints
+* Team knowledge – How well the team’s skills align with the idea.
 
 ### 4.2 Scoring Matrix
 
-Example table:
+| Idea                     | Feasibility (1–5) | Technical Complexity (1–5) | Potential Impact (1–5) | Scalability (1–5) | Time Constraints (1–5) | Team Knowledge (1–5) | Total Score | Risks / Constraints                                                                          |
+| ------------------------ | ----------------- | -------------------------- | ---------------------- | ----------------- | ---------------------- | -------------------- | ----------- | -------------------------------------------------------------------------------------------- |
+| AI Legal Assistant       | 3                 | 4                          | 5                      | 3                 | 3                      | 2                    | 16          | API limitations; Learning curve for legal AI; Accuracy not guaranteed                        |
+| AI Career Simulator      | 5                 | 4                          | 5                      | 4                 | 4                      | 4                    | 22          | Time constraints; Complexity of simulating multiple careers                                  |
+| Small Business Assistant | 4                 | 1                          | 3                      | 2                 | 3                      | 5                    | 17          | API limitations connecting to different service providers                                    |
+| Interactive AI Teacher   | 3                 | 4                          | 5                      | 3                 | 3                      | 3                    | 17          | Learning curve for AI tools; Technical complexity for live interaction and educational games |
+| Price Comparison Tool    | 3                 | 5                          | 5                      | 3                 | 3                      | 3                    | 17          | API limitations; Scalability issues; Time constraints                                        |
 
-Idea |	Feasibility |	Impact |	Technical Fit |	Total
 
-### 4.3 Risks and Constraints
 
-Discuss potential problems for each idea.
-
-Example:
-
-* API limitations
-
-* Time constraints
-
-* Learning curve
 
 ## 5. Decision and Refinement
 
@@ -177,3 +195,4 @@ A short final section summarizing:
 * Its expected impact
 
 * Future potential
+
