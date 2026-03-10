@@ -32,9 +32,9 @@ The methodology used in this process included:
     - h
     - 
 
-  * Thekra Waleed:
-    - h
-    - 
+  * Thekra Alhenaki:
+    - Programming languages (Python, JavaScript)
+    - Project planning and scheduling
 
 ### 2.2 Roles and Responsibilities
 
@@ -195,4 +195,5 @@ A short final section summarizing:
 * Its expected impact
 
 * Future potential
+
 
