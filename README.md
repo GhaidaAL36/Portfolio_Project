@@ -121,78 +121,78 @@ Explain the criteria used to judge ideas.
 
 ### 5.1 Selected MVP
 
-Explain which idea was chosen.
+AI Career Simulator
 
 ### 5.2 Problem Statement
 
-What problem does the product solve?
+When someone wants to become a Data Scientist, Marketer, or UX Designer, they:
+ ∙ Watch courses and read tutorials
+ ∙ Think they’re ready
+ ∙ Go to the interview — and freeze
 
 ### 5.3 Target Users
 
-Who will use it?
+Career Switchers
+People leaving one field to enter another (e.g., teacher → data scientist). They have no portfolio and need to prove they can do the job, not just study it.
 
-Example:
+* Fresh Graduates
 
-* Beginner investors
+* Job Seekers
 
-* Students learning about finance
-
-* Personal finance enthusiasts
+* Self Learners
 
 ### 5.4 Key Features
 
-Example:
+* Real task generation
 
-* Portfolio tracking
+* AI evaluator
 
-* Asset price comparison
+* step by step guidance
 
-* Performance dashboard
-
-* Notifications
+* progress tracker
 
 ### 5.5 Expected Outcome
 
-What the MVP should achieve.
-
-Example:
-
-Provide a simple dashboard to track investments
-
-Help users analyze performance quickly
+For users:
+ ∙ Know their real skill level
+ ∙ Practice before the real interview
+ ∙ Get better with every attempt
+ ∙ Land the job with confidence
+ 
+ For the product:
+ ∙ Users return to improve their score
+ ∙ Measurable skill progression
+ ∙ Word of mouth from people who got hired
 
 ## 6. Ideas Considered but Rejected
 
-Document rejected ideas.
+1. Quiz-Based Assessment
+Why rejected: Multiple choice doesn’t reflect real work. Too easy to guess.
 
-Example format:
+2. Video Courses
+Why rejected: Too much content already exists. Not the gap we’re solving.
 
-#### Habit Tracker
+3. Peer Review
+Why rejected: Slow, inconsistent, and biased. AI gives instant honest feedback.
 
-#### Strengths
-
-* Easy to build
-
-* Clear use case
-
-#### Weaknesses
-
-* Many existing competitors
-
-#### Reason for rejection
-
-Low innovation compared to other ideas.
 
 ## 7. Final MVP Summary
 
-A short final section summarizing:
+Product: AI Career Simulator
+One line: Practice the job before you get the job.
+Problem
+Job seekers don’t know if they’re ready until they fail the interview.
+Users
+Career switchers, fresh graduates, bootcamp grads preparing for interviews.
+Solution
+Real tasks → User attempts → AI evaluates → User improves.
+MVP Features
+ 1. Pick a role
+ 2. Get a real task
+ 3. Submit your answer
+ 4. AI scores and gives feedback
+ 5. Retry and improve
 
-* The chosen idea
 
-* Why it was selected
-
-* Its expected impact
-
-* Future potential
 
 
