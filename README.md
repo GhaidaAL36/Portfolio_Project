@@ -33,19 +33,17 @@ The methodology used in this process included:
   * Thekra Alhenaki:
     - Programming languages (Python, JavaScript)
     - Project planning and scheduling
-    - Back end
 
 ### 2.2 Roles and Responsibilities
 
-* Temporary Project Manager:
+* Front-end lead: Ghaida Almutairi
 
-* Developers:
-  All team members
+* Back-end lead: Thekra Alhenaki
 
-* Research lead:
+* Database lead: Noura Alqahtani
   
 
-* Documentation lead:
+* AI lead: Najla Alajaleen
   
 
 ### 2.3 Team Communication
