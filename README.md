@@ -24,17 +24,16 @@ The methodology used in this process included:
     - Task prioritization
   
 * Najla Alajaleen :
-    - h
-    -
+    - Promot Engineer
 
 
  *  Noura Alqahtani:
-    - h
-    - 
+    - Database
 
   * Thekra Alhenaki:
     - Programming languages (Python, JavaScript)
     - Project planning and scheduling
+    - Back end
 
 ### 2.2 Roles and Responsibilities
 
