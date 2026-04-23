@@ -1,7 +1,7 @@
 ## SCM Strategy (Source Code Management)
 
 ### Version Control & Branching
-Madar will use **Git** as the main version control system, with a remote repository hosted on **GitHub**.
+Mdar will use **Git** as the main version control system, with a remote repository hosted on **GitHub**.
 
 We will follow a **feature-based branching model**:
 
