@@ -95,7 +95,10 @@
 ## Mockup
 
 ### Home Page
+<img width="458" height="668" alt="image" src="https://github.com/user-attachments/assets/cc5d1f87-28a2-449d-bbd8-b192712b017c" />
+
 
 
 ### Task Page
+<img width="515" height="748" alt="image" src="https://github.com/user-attachments/assets/de3430cc-b9e5-429c-b53a-241f09fcaecd" />
 
